@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **ccp93071@gmail.com**
 
-- 🌱 I’m currently learning **Python, Angular.Js, Next.Js and C#**
+- 🌱 I’m currently learning **C#, Xamarin, Dart and Swift**
 
 
 <div align="left">
