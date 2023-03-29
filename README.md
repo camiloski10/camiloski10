@@ -28,8 +28,12 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darell12&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Darell12&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camiloski10&theme=onedark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darell12&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloski10&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloski10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
